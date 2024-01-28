@@ -1,0 +1,16 @@
+h1{
+    color: #735CDD;
+}
+
+h2{
+    color: #B3C2F2;
+}
+
+body{
+    font-family:'Courier New', Courier, monospace;
+}
+
+body section p{
+    background: url(https://s3.amazonaws.com/thisistoday-webassets/siteMedia/Devotion-Images/2018-06/june-12.jpg);
+    color: white;
+}
